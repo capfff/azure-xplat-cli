@@ -202,3 +202,19 @@ For more extensive  documentation on the new cross platform CLI tool for Mac and
 If you would like to become an active contributor to this project please follow the instructions provided in [Microsoft Azure Projects Contribution Guidelines](http://windowsazure.github.com/guidelines.html).
 
 If you encounter any bugs with the library please file an issue in the [Issues](https://github.com/Azure/azure-xplat-cli/issues) section of the project.
+
+
+
+
+-------------------------------
+TEST PR LIST
+
+1. test 1
+2. test 2
+3. test 3
+4. test 4
+5. test 5
+6. test 6
+7. test 7
+8. test 8
+9. test 9
